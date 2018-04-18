@@ -16,11 +16,9 @@ search: true
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to the IOTA Seed Vault - API! If you are developing a IOTA wallet, you can use our APIs to provide higher security to your customers. In particular, since the funds are secured with multiple keys, you can offer a wallet that is secure even if the user's computer is compromised with a keylogger.
 
-We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
-
-This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+If you run a business that handles high volumes of Bitcoins, our APIs will allow you to construct flexible custom security policies around authorizing transactions. These policies can protect against inside job and "gun to the head" security threats.
 
 # Authentication
 
