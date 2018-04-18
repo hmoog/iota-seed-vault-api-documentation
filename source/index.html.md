@@ -16,7 +16,7 @@ search: true
 
 # Introduction
 
-Welcome to the IOTA Seed Vault - API! If you are developing a IOTA wallet, you can use our APIs to provide higher security to your customers. In particular, since the funds are secured with multiple keys, you can offer a wallet that is secure even if the user's computer is compromised with a keylogger.
+Welcome to the IOTA Seed Vault - API! If you are developing a IOTA wallet, you can use our APIs to provide higher security to your customers. In particular, since the funds are secured with multiple seeds, you can offer a wallet that is secure even if the user's computer is compromised with a keylogger.
 
 If you run a business that handles high volumes of IOTA, our payed APIs will allow you to construct flexible custom security policies around authorizing transactions. These policies can protect against inside job and "gun to the head" security threats.
 
