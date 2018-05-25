@@ -31,7 +31,9 @@ curl "api_endpoint_here"
 ```
 
 ```javascript
-const kittn = require('kittn');
+const iotaSeedVault = require('iota-seed-vault');
+
+const signedTransaction = iotaSeedVault.signTransaction([])
 
 let api = kittn.authorize('meowmeowmeow');
 ```
